@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>http://localhost/Prediction/sekiller/reklamlar/125x125-Blue.gif</ImageUrl>
+    <NavigateUrl>http://www.xirdalan.ws</NavigateUrl>
+    <AlternateText>Xirdalan.ws</AlternateText>
+    <Keyword>Mobil, əyləncə, internet, stavka, futbol, mobil əyləncə, proqramlar, oyunlar</Keyword>
+    <Impressions>8000</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>http://localhost/Prediction/sekiller/reklamlar/125x125-Asp.gif</ImageUrl>
+    <NavigateUrl>http://www.asp.net</NavigateUrl>
+    <AlternateText>www.asp.net</AlternateText>
+    <Keyword>ASP .NET, Stavka, internet</Keyword>
+    <Impressions>800</Impressions>
+  </Ad>
+</Advertisements>

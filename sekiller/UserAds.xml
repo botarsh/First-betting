@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>http://localhost/Prediction/sekiller/reklamlar/468x60.gif</ImageUrl>
+    <NavigateUrl>http://www.welcometomiami.com</NavigateUrl>
+    <AlternateText>www.welcometomiami.com</AlternateText>
+    <Keyword>Miami</Keyword>
+    <Impressions>800</Impressions>
+  </Ad>
+</Advertisements>

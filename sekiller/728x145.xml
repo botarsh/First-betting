@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>http://localhost/Prediction/sekiller/reklamlar/camtasia.gif</ImageUrl>
+    <NavigateUrl>http://www.camtasiastudio.com</NavigateUrl>
+    <AlternateText>www.camtasiastudio.com</AlternateText>
+    <Keyword>Camtasia</Keyword>
+    <Impressions>800</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>http://localhost/Prediction/sekiller/reklamlar/maxi.gif</ImageUrl>
+    <NavigateUrl>http://www.maxivista.com</NavigateUrl>
+    <AlternateText>www.maxivista.com</AlternateText>
+    <Keyword>Vista</Keyword>
+    <Impressions>800</Impressions>
+  </Ad>
+</Advertisements>
